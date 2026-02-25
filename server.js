@@ -3,3 +3,7 @@ console.log("we learn how deiferent branch work and make a pull req")
 console.log("a new line is get added for new commit ")
 console.log("i'm new line for new commit")
 console.log("im the new line after swithched to feature branch:")
+
+// the file name is get change from serve.jsx to server.jsx
+
+console.log("sucessfully changed!")
